@@ -5,18 +5,19 @@ and open the template in the editor.
 */
 /* 
     Created on : 13 mar. 2020, 07:10:06
-    Author     : Estudiante
+    Author     : Kengy Amador
 */
 body{
-   background-image: linear-gradient(180deg, #7d4159 0, #773959 12.5%, #6f3159 25%, #652859 37.5%, #591f59 50%, #4b185a 62.5%, #3a135b 75%, #24125d 87.5%, #00125f 100%);
+  background: rgb(47,35,113);
+    background: linear-gradient(180deg, rgba(47,35,113,1) 8%, rgba(197,29,112,1) 100%);
     background-repeat: no-repeat ;
     background-size: cover;
     background-attachment: fixed;
 } 
 @font-face{
-    font-family: Kengy1;
-    src:url('Fabian.ttf') format('truetype');
-    
+    font-family: logo;
+    src:url('Comfortaa-Regular.ttf') format('truetype');
+   
 }
 #titulo1{
     font-family: kengy1;
