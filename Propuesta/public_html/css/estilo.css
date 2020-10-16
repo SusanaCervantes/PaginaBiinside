@@ -106,3 +106,15 @@ body{
 }
 
 
+#registro input, select {
+    border-radius: 11px 11px;
+    border: 2px solid #9d9fa1;
+    padding-right: 80px
+    
+}
+#iniciar input {
+    border-radius: 11px 11px;
+    border: 2px solid #9d9fa1;
+    padding-right: 80px
+    
+}
